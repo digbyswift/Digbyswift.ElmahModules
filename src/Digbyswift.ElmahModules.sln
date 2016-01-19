@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digbyswift.ElmahModules", "Digbyswift.ElmahModules\Digbyswift.ElmahModules.csproj", "{18BAAFC9-6CB2-41EC-9BC7-DA31BD54719A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSite", "TestSite\TestSite.csproj", "{2573E812-2FB5-4D92-AA78-AE1A5D0B710B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BAAFC9-6CB2-41EC-9BC7-DA31BD54719A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BAAFC9-6CB2-41EC-9BC7-DA31BD54719A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BAAFC9-6CB2-41EC-9BC7-DA31BD54719A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BAAFC9-6CB2-41EC-9BC7-DA31BD54719A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2573E812-2FB5-4D92-AA78-AE1A5D0B710B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2573E812-2FB5-4D92-AA78-AE1A5D0B710B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2573E812-2FB5-4D92-AA78-AE1A5D0B710B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2573E812-2FB5-4D92-AA78-AE1A5D0B710B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
